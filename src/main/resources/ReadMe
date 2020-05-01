@@ -1,0 +1,7 @@
+#Receipt-Printer-POC
+
+This application is a POC project to demonstrate receipt printer with JAVA application.
+
+Need to add the dlls required for Printer as native library to our JRE System Library in project build path.
+
+Also, need to add printer jars as external jars in project build path.
